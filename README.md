@@ -1,33 +1,38 @@
-Hey there, I'm Aakash Chandran! 👋🚀
+👋 Hi there, I'm Aakash Chandran!
+
+🎓 Electronics and Communication Engineering Student
+⚡ Electronics Enthusiast
+🐍 Python Learner
+🛰️ Aspiring Space Technology Engineer
+
+---
 
 👨‍💻 About Me
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&width=500&lines=🎓+ECE+Student;🐍+Python+Learner;⚡+Electronics+Enthusiast;🛰️+Aspiring+Space+Technology+Engineer" alt="Typing SVG" />
-</p>
+- 🎓 Pursuing Electronics and Communication Engineering
+- ⚡ Exploring electronics, hardware, and PCB design
+- 📡 Learning digital communication and embedded systems
+- 🚀 Building projects and developing engineering skills
+- 🛰️ Aspiring to contribute to India's space technology sector
 
+🛠️ Tech & Tools
 
-🛠️ Skills
+"Python" (https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"HTML5" (https://img.shields.io/badge/HTML5-Projects-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-Projects-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- Python
-- Electronics Fundamentals
-- PCB Design
-- Teamwork
+📌 Featured Repositories
 
-🚀 Featured Project
-
-📡 Digital Communication Error Rate Simulator
-
-A web-based project exploring how channel noise affects digital data transmission.
-
-Status: In Development 🚧
+Repository| Description
+"Digital Communication Error Rate Simulator" (https://github.com/AAKASH-CHANDRAN/digital-communication-error-rate-simulator)| Simulates channel noise and calculates Bit Error Rate (BER)
 
 🎯 My Goal
 
-To develop my engineering and programming skills and work towards a career in India's space technology sector, with the long-term aspiration of contributing to ISRO.
+To strengthen my electronics and engineering knowledge and work towards a career in India's space technology sector, with the long-term aspiration of contributing to ISRO.
 
 🤝 Connect With Me
 
-🔗 "GitHub Profile" (https://github.com/AAKASH-CHANDRAN)
+""GitHub" (https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github)" (https://github.com/AAKASH-CHANDRAN)
 
 ⭐ Learning today, building tomorrow! 🚀
