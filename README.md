@@ -1,16 +1,33 @@
-## Hi there 👋
+Hey there, I'm Aakash Chandran! 👋🚀
 
-<!--
-**AAKASH-CHANDRAN/AAKASH-CHANDRAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&width=500&lines=🎓+ECE+Student;🐍+Python+Learner;⚡+Electronics+Enthusiast;🛰️+Aspiring+Space+Technology+Engineer" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ Skills
+
+- Python
+- Electronics Fundamentals
+- PCB Design
+- Teamwork
+
+🚀 Featured Project
+
+📡 Digital Communication Error Rate Simulator
+
+A web-based project exploring how channel noise affects digital data transmission.
+
+Status: In Development 🚧
+
+🎯 My Goal
+
+To develop my engineering and programming skills and work towards a career in India's space technology sector, with the long-term aspiration of contributing to ISRO.
+
+🤝 Connect With Me
+
+🔗 "GitHub Profile" (https://github.com/AAKASH-CHANDRAN)
+
+⭐ Learning today, building tomorrow! 🚀
