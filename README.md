@@ -4,7 +4,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing Electronics and Communication Engineering
+- 🎓 Pursuing a degree in Electronics and Communication Engineering
+     at St. Xavier's Catholic College of Engineering 
 - ⚡ Exploring electronics, hardware, and PCB design
 - 📡 Learning digital communication and embedded systems
 - 🚀 Building projects and developing engineering skills
