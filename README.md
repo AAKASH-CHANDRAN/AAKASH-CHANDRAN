@@ -1,6 +1,6 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:B8860B&height=220&section=header&text=Hey%20there,%20I%27m%20Aakash%20Chandran!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:B8860B&height=280&section=header&text=Hey%20there,%20I%27m%20Aakash%20Chandran!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Electronics+and+Communication+Engineering+Student;Electronics+Enthusiast;Python+Learner;Aspiring+Space+Technology+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=1100&lines=Electronics+and+Communication+Engineering+Student;Electronics+Enthusiast;Python+Learner;Aspiring+Space+Technology+Engineer)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
